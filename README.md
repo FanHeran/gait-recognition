@@ -4,13 +4,14 @@
 基于GEI的行人步态识别系统。关键词：步态识别；Tensorflow；Python；生物特征值
 此项目仅为测试可行性，识别精度较差，尚有较多漏洞和不足。
 #### 软件架构
-软件架构说明
+windows操作系统环境
+需要python3
 
 
 #### 安装教程
 
-1. 需提前安装graphviz到c盘默认位置 http://www.graphviz.org/download/
-
+1. 需提前安装graphviz2.38到c盘默认位置 http://www.graphviz.org/download/
+2. 需要提前安装Tensorflow
 
 #### 使用说明
 
