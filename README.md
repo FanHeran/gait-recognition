@@ -5,13 +5,13 @@
 此项目仅为测试可行性，识别精度较差，尚有较多漏洞和不足。
 #### 软件架构
 windows操作系统环境
-需要python3
+需要python3.6
 
 
 #### 安装教程
 
 1. 需提前安装graphviz2.38到c盘默认位置 http://www.graphviz.org/download/
-2. 需要提前安装Tensorflow
+2. 需要提前安装Tensorflow==1.X
 
 #### 使用说明
 
